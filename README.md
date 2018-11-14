@@ -1,1 +1,1 @@
-screnshots for Android apps
+screenshots for Android apps
